@@ -2,10 +2,10 @@
 Outcomes based on analysis of PyBer Ride - Share data.
 ## Overview of Analysis:
 We have been asked by the CEO of PybBer to create visualizations that capture the ride - sharing data given:
-Original Csv Resources
--[PyBer Ride Data](Resources/PyBer_ride_data.csv)
--[City Data](Resources/city_data.csv)
--[Ride data](Resources/ride_data.csv)
+- Original Csv Resources
+  - [PyBer Ride Data](Resources/PyBer_ride_data.csv)
+  - [City Data](Resources/city_data.csv)
+  - [Ride data](Resources/ride_data.csv)
 
 In addition to scatter and pie charts, the CEO has specifically requested a summary table of the key metrics of the ride-sharing data by city type, and a multiple-line graph that shows the average fare for each week by each city type.
 
@@ -24,7 +24,7 @@ In addition to scatter and pie charts, the CEO has specifically requested a summ
   - Highest average fares due to low volume of rides and drivers. The fewer the drivers and rides, the more expensive the fares.
 
 #### Multiple Line Graph showing the average fare for each week by each city type.
-![M_L_G](Analysis/Fig8.png)
+![M_L_G](analysis/Fig8.png)
 - Urban:
   - the urban fares are higher at the beginning of the month than the end.
   - urban fares fluctuate a lot between march and april after being at their highest.
@@ -48,10 +48,10 @@ Based on the above analysis, I suggest:
 
 
 #### Additional Visualizations
-![1](Analysis/Fig1.png)
-![2](Analysis/Fig2.png)
-![3](Analysis/Fig3.png)
-![4](Analysis/Fig4.png)
-![5](Analysis/Fig5.png)
-![6](Analysis/Fig6.png)
-![7](Analysis/Fig7.png)
+![1](analysis/Fig1.png)
+![2](analysis/Fig2.png)
+![3](analysis/Fig3.png)
+![4](analysis/Fig4.png)
+![5](analysis/Fig5.png)
+![6](analysis/Fig6.png)
+![7](analysis/Fig7.png)
