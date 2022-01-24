@@ -12,7 +12,7 @@ In addition to scatter and pie charts, the CEO has specifically requested a summ
 
 ## Analysis Results:
 #### Summary DataFrame
-![Summary_df](hhttps://i.ibb.co/YWnC87V/summarydf.png)(PICTURE)
+![Summary_df](hhttps://i.ibb.co/YWnC87V/summarydf.png)
 - Urban:
   - had the highest of the total rides, total drivers, and total fares.
   - lowest Average fare per ride and per driver.
